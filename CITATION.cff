@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite them as below."
+title: "Derived outputs and analysis scripts for: Leading Modes and a Candidate Decadal Shift in December–February Precipitation over North Kalimantan, Indonesia: A Promax-Rotated Principal Component Analysis of ERA5, 1955–2025"
+type: dataset
+version: "1.0.0"
+date-released: "2026-10-17"
+authors:
+  - family-names: "Mahardika"
+    given-names: "Aji"
+    affiliation: "Sekolah Tinggi Meteorologi Klimatologi dan Geofisika (STMKG), Tangerang, Indonesia"
+  - family-names: "Mulsandi"
+    given-names: "Adi"
+    affiliation: "Sekolah Tinggi Meteorologi Klimatologi dan Geofisika (STMKG), Tangerang, Indonesia"
+repository-code: "https://github.com/dikaprasetay/Aji-Mahardika"
+license: MIT
