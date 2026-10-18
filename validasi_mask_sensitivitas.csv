@@ -1,0 +1,4 @@
+﻿definisi_ERA5,n_sel,n,pearson_r,r_ci95_low,r_ci95_high,slope,slope_ci95,bias_era5_minus_bmkg,rmse,rmse_pct_of_bmkg_mean,mean_era5,mean_bmkg
+Kotak domain (semua sel),225,34,0.8644,0.7435,0.9305,1.4498,0.3037,33.0653,46.1926,19.1597,274.1581,241.0929
+Hanya sel di dalam provinsi (GADM),85,34,0.8474,0.7137,0.9215,1.5194,0.3429,22.2799,42.8461,17.7716,263.3727,241.0929
+Sel di dalam poligon ZOM Kaltara,87,34,0.8487,0.7161,0.9222,1.5392,0.3454,22.3043,43.3107,17.9643,263.3972,241.0929
